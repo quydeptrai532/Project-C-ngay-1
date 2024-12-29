@@ -9,5 +9,5 @@ typedef struct {
     char class[20];
     float score;
 } Student;
-
+#endif 
 
