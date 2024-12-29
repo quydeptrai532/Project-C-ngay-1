@@ -10,5 +10,4 @@ typedef struct {
     float score;
 } Student;
 
-#endif 
 
