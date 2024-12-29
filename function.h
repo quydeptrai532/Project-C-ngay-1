@@ -11,5 +11,5 @@ void loadFromFile(Student **students, int *count, const char *filename);
 void editStudent(Student *students, int count);
 void deleteStudent(Student **students, int *count);
 
-
+#endif 
 
